@@ -81,7 +81,7 @@ require (
 	github.com/influxdata/wlog v0.0.0-20160411224016-7c63b0a71ef8
 	github.com/jackc/fake v0.0.0-20150926172116-812a484cc733 // indirect
 	github.com/jackc/pgx v3.6.0+incompatible
-	github.com/kardianos/service v1.0.0
+	github.com/kardianos/service v1.2.0
 	github.com/karrick/godirwalk v1.16.1
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
 	github.com/kubernetes/apimachinery v0.0.0-20190119020841-d41becfba9ee
@@ -140,7 +140,7 @@ require (
 	golang.org/x/net v0.0.0-20200904194848-62affa334b73
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
 	golang.org/x/sync v0.0.0-20200317015054-43a5402ce75a
-	golang.org/x/sys v0.0.0-20200826173525-f9321e4c35a6
+	golang.org/x/sys v0.0.0-20201015000850-e3ed0017c211
 	golang.org/x/text v0.3.3
 	golang.org/x/tools v0.0.0-20200317043434-63da46f3035e // indirect
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20200205215550-e35592f146e4
